@@ -6,7 +6,7 @@ Welcome to the Intro to Git workshop! As a little practice exercise, add your na
 
 Isaac Curiel
 
-
+Kobe Braga
 
 
 
